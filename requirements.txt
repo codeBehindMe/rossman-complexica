@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+plotly
+tensorflow
+xgboost
+scikit-learn
+geopandas
+pyspark
